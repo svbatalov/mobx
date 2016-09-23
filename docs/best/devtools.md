@@ -1,6 +1,6 @@
 # MobX + React DevTools
 
-MobX ships with DevTools that can be used to track the rendering behavior and data depenencies of your app.
+MobX ships with DevTools that can be used to track the rendering behavior and data dependencies of your app.
 
 ![devtools](../images/devtools.gif)
 
